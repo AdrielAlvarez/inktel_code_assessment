@@ -1,0 +1,182 @@
+{
+    "campaigns": [
+        {
+            "campaignId": "ALL-CAMPAIGNS",
+            "campaignName": " - USERS CAN VIEW ANY CAMPAIGN",
+            "active": false
+        },
+        {
+            "campaignId": "10040",
+            "campaignName": " - NAVY Resume Mining",
+            "active": false
+        },
+        {
+            "campaignId": "10041",
+            "campaignName": " - Marines Call Me Now",
+            "active": false
+        },
+        {
+            "campaignId": "10042",
+            "campaignName": " - Marines Bad Address",
+            "active": false
+        },
+        {
+            "campaignId": "10044",
+            "campaignName": " - Broward County Transit OLD -- DNU",
+            "active": false
+        },
+        {
+            "campaignId": "10048",
+            "campaignName": " - Navy BluePrinting",
+            "active": false
+        },
+        {
+            "campaignId": "5Below",
+            "campaignName": " - Five Below",
+            "active": false
+        }
+    ],
+    "groupShifts": [
+        {
+            "GroupShiftId": "24HRMIDNIGHT",
+            "GroupShiftName": " - 24 hours 7 days a week",
+            "active": false
+        },
+        {
+            "GroupShiftId": "NavyBP",
+            "GroupShiftName": " - Navy BP",
+            "active": false
+        },
+        {
+            "GroupShiftId": "Test",
+            "GroupShiftName": " - Test",
+            "active": false
+        },
+        {
+            "GroupShiftId": "WIN",
+            "GroupShiftName": " - 9am to 530pm",
+            "active": false
+        }
+    ],
+    "agentStatus": [
+        {
+            "agentId": "ALL-GROUPS",
+            "agentStatusName": " - All user groups in the system",
+            "active": false
+        },
+        {
+            "agentId": "CAMPAIGN-AGENTS",
+            "agentStatusName": " - All users logged into the same campaign as the agent",
+            "active": false
+        },
+        {
+            "agentId": "NOT-LOGGED-IN-AGENTS",
+            "agentStatusName": " - All users in the system, even not logged-in users",
+            "active": false
+        },
+        {
+            "agentId": "10048",
+            "agentStatusName": " - Windstream IB-OB CLEC",
+            "active": false
+        },
+        {
+            "agentId": "102",
+            "agentStatusName": " - Stephanie Rios",
+            "active": false
+        },
+        {
+            "agentId": "1439",
+            "agentStatusName": " - Marlon Williams",
+            "active": false
+        },
+        {
+            "agentId": "1468",
+            "agentStatusName": " - Marcos Marti",
+            "active": false
+        },
+        {
+            "agentId": "1477",
+            "agentStatusName": " - Alison Hill",
+            "active": false
+        },
+        {
+            "agentId": "1518",
+            "agentStatusName": " - Oniel Smith",
+            "active": false
+        }
+    ],
+    "users": [
+        {
+            "userId": "VDAD",
+            "userFullName": "Outbound Auto Dial",
+            "userLevel": 1,
+            "active": false
+        },
+        {
+            "userId": "admin",
+            "userFullName": "Admin",
+            "userLevel": 9,
+            "active": true
+        },
+        {
+            "userId": "molivero",
+            "userFullName": "Michael Olivero",
+            "userLevel": 8,
+            "active": false
+        },
+        {
+            "userId": "jaraujo",
+            "userFullName": "Jonathan Araujo",
+            "userLevel": 8,
+            "active": true
+        },
+        {
+            "userId": "mcarrillo",
+            "userFullName": "Mark Carrillo",
+            "userLevel": 8,
+            "active": false
+        },
+        {
+            "userId": "guest",
+            "userFullName": "Vici Guest",
+            "userLevel": 8,
+            "active": true
+        },
+        {
+            "userId": "srios",
+            "userFullName": "Stephanie Rios",
+            "userLevel": 9,
+            "active": true
+        },
+        {
+            "userId": "mramirez",
+            "userFullName": "Michelle Ramirez",
+            "userLevel": 8,
+            "active": true
+        },
+        {
+            "userId": "omi",
+            "userFullName": "Omi Ramirez",
+            "userLevel": 8,
+            "active": true
+        },
+        {
+            "userId": "romel",
+            "userFullName": "romel mederos",
+            "userLevel": 8,
+            "active": true
+        },
+        {
+            "userId": "fgonzalez",
+            "userFullName": "Francisco Gonzalez",
+            "userLevel": 8,
+            "active": true
+        },
+        {
+            "userId": "60328",
+            "userFullName": "Judson Noel",
+            "userLevel": 8,
+            "active": false
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+* {
+  font-size: 12px;
+  color: #000;
+  font-family: sans-serif;
+}
+img.connectLogo {
+  min-height: 91.53px;
+  min-width: 75px;
+  max-height: 91.53px;
+  max-width: 75px;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
